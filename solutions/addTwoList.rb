@@ -38,5 +38,10 @@ puts "=>", add_two_numbers(l1,l2)
 
 # Don't forget to add your own!
 end
+num1 =a;
+num2 =b;
+num3 =a+b;
+end;
+
   
 # More details here: https://leetcode.com/problems/add-two-numbers/solution/
