@@ -41,7 +41,7 @@ end
 num1 =a;
 num2 =b;
 num3 =a+b;
-end;
+end
 
   
 # More details here: https://leetcode.com/problems/add-two-numbers/solution/
